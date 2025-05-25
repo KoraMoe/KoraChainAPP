@@ -42,6 +42,7 @@ export { chainsJurPNG } from './generated/jurPNG.js';
 export { chainsKaruraSVG } from './generated/karuraSVG.js';
 export { chainsKicoPNG } from './generated/kicoPNG.js';
 export { chainsKintsugiPNG } from './generated/kintsugiPNG.js';
+export { chainsKoraLogoPNG } from './generated/kora-logoPNG.js';
 export { chainsKreivoSVG } from './generated/kreivoSVG.js';
 export { chainsKusamaSVG } from './generated/kusamaSVG.js';
 export { chainsLaosSigmaPNG } from './generated/laos-sigmaPNG.js';
