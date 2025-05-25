@@ -46882,6 +46882,20 @@ export const typesBundle = {
         }
       ]
     },
+    "kora-chain": {
+      "types": [
+        {
+          "minmax": [
+            0,
+            null
+          ],
+          "types": {
+            "Address": "MultiAddress",
+            "LookupSource": "MultiAddress"
+          }
+        }
+      ]
+    },
     "kpron": {
       "types": [
         {

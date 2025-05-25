@@ -71,6 +71,7 @@ import jur from './jur.js';
 import khala from './khala.js';
 import kilt from './kilt.js';
 import konomi from './konomi.js';
+import kora from './kora.js';
 import kpron from './kpron.js';
 import kulupu from './kulupu.js';
 import kusari from './kusari.js';
@@ -233,6 +234,7 @@ const spec: Record<string, OverrideBundleDefinition> = {
   ...kilt,
   'kintsugi-parachain': interbtc,
   konomi,
+  'kora-chain': kora,
   kpron,
   kulupu,
   kusari,
